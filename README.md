@@ -13,14 +13,15 @@ To get started with our projects:
 
 Clone the Repository:
 
-bash
-Copy code
+
 git clone https://github.com/HorizonTechGlobal/{project_name}.git
+
+
 Navigate to the Project Directory:
 
-bash
-Copy code
-cd your-repository-name
+cd project_name
+
+
 Install Dependencies:
 
 Follow the instructions in the README.md file of the specific project for details on installing dependencies and setting up your development environment.
@@ -44,7 +45,7 @@ Comprehensive documentation for our projects is available in the docs/ directory
 🤝 Community and Support
 Join our community and stay updated with our latest news and developments:
 
-Website: horizontechglobal.com
+Website: horizontech.com.np
 Twitter: @HorizonTechGlobal
 LinkedIn: HorizonTechGlobal
 Slack Channel: Join our Slack
